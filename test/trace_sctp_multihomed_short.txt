@@ -1,0 +1,6 @@
+A simple test between two SCTP multi-homed IPv4 peers 
+- each peer has two IPv4 addresses
+- one assoc is established with two IP paths
+- several DATAs in both directions
+- HB/HB_ACKs for both IP paths
+- after a while, association abort 
